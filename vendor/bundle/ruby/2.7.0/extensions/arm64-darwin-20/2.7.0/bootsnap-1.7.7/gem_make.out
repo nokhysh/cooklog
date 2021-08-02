@@ -1,0 +1,15 @@
+current directory: /Users/Naoki/Works/cooklog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.7/ext/bootsnap
+/Users/Naoki/.rbenv/versions/2.7.3/bin/ruby -I /Users/Naoki/.rbenv/versions/2.7.3/lib/ruby/2.7.0 -r ./siteconf20210802-10252-17p2teg.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Naoki/Works/cooklog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.7/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/Naoki/Works/cooklog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.7/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/Naoki/Works/cooklog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.7/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210802-10252-1voceag/bootsnap

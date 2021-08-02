@@ -1,0 +1,15 @@
+current directory: /Users/Naoki/Works/cooklog/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/Naoki/.rbenv/versions/2.7.3/bin/ruby -I /Users/Naoki/.rbenv/versions/2.7.3/lib/ruby/2.7.0 -r ./siteconf20210802-10252-19633q2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Naoki/Works/cooklog/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/Naoki/Works/cooklog/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/Naoki/Works/cooklog/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20210802-10252-v8cj9w
