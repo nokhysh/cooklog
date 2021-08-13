@@ -44,7 +44,10 @@ group :development, :test do
   gem 'rspec-rails', '~> 4.0.0.beta2'
   gem 'rails-controller-testing'
   gem 'rubocop-airbnb'
+  gem 'factory_bot_rails', '~> 4.10.0'
 end
+
+gem 'faker'
 
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
