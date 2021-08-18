@@ -48,6 +48,7 @@ group :development, :test do
 end
 
 gem 'faker'
+gem 'jquery-rails', '4.3.1'
 
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
